@@ -1,4 +1,4 @@
-title: Bogdan Bystritskiy
+title: Bogdan Bystritskiy - iOS Software Engineer
 author: Bogdan Bystritskiy
 email: b@bystritskiy.com
 description: >
@@ -16,7 +16,8 @@ texture:
   style: blue
   showNav: false
   showPicker: false
-
+  analytics_id: 'UA-64099894-3'
+  
   social_links:
     twitter: bystritskiy_b
     github:  bystritskiy
