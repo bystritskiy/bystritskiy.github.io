@@ -3,8 +3,17 @@ layout: post
 title:  "Hello, World"
 date:   2019-11-13 16:00:00 +0530
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Hi!
+My name is Bogdan Bystritskiy.
+In this blog I am going to write on different app development topics.
+Hopefully, some of these blog posts will be helpful to you!
+
+Contact and Social Stuff
+* 🔥[Github](https://github.com/bystritskiy)
+* 🔥[Stackoverflow](https://stackoverflow.com/users/7303426/bogdan-bystritskiy)
+* 😏[LinkedIn](https://www.linkedin.com/in/bystritskiy/)
+* 😏[Email](mailto:b@bystritskiy.com)
+* 👍[Twitter](https://twitter.com/bystritskiy_b)
+* 👍[Facebook](https://www.facebook.com/bystritskiyb)
+* 👍[Instagram](http://instagram.com/bystritskiy_b/)
