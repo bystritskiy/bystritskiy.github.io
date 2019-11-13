@@ -2,9 +2,7 @@ title: Bogdan Bystritskiy
 author: Bogdan Bystritskiy
 email: b@bystritskiy.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am an iOS Software Engineer with 3-year experience of iOS programming. This is my blog.
 show_excerpts: true
 
 sass:
@@ -13,7 +11,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Bogdan Bystritskiy
-  tagline: Developer
+  tagline: iOS Software Engineer
   date_format: "%b %-d, %Y"
   style: blue
   showNav: false
